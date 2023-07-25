@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adarshpaulraj
 - 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me smartadarsh832@gmail.com
 
 <!---
